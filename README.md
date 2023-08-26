@@ -7,6 +7,6 @@
 And as I always say: **¡Keep grinding!** 🤩🫵🏻 
 
 <!---
-imlicud/imlicud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+imlicud/imlicud is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile
+so you all can learn more about me :D
 --->
